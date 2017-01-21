@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fact time</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_catagory">CatagoryActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="key_random">random</string>
+    <string name="key_universe">universe</string>
+    <string name="key_human">human</string>
+    <string name="key_science">science</string>
+
+
+
+</resources>
